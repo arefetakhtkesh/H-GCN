@@ -4,7 +4,7 @@ This is the repository for the IJCAI-19 paper [Hierarchical Graph Convolutional 
 
 ## Requirements
 
-- Tensorflow (1.9.0)
+- Tensorflow
 - networkx
 
 ## Usage
